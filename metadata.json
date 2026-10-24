@@ -1,0 +1,6 @@
+{
+  "name": "Students Information, Enrollment & Attendance Monitoring System",
+  "description": "Comprehensive school management system featuring student records, automated enrollment workflows, sectioning, class scheduling, live attendance session tracking, audit logs, and official reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
